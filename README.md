@@ -1,3 +1,4 @@
 # AKG-demo
 This is my first Git repository.
-Author - Aditya kumar Gupta
+<br>
+<bold>Author - Aditya kumar Gupta</bold>
